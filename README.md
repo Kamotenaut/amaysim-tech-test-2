@@ -1,6 +1,5 @@
 # amaysim-tech-test
-Tech Test for Amaysim with a very basic implementation. 
-Improvements can be done by adding the use of a local host environment like node
+Tech Test for Amaysim with a very basic implementation.
 
 ## Clone the repository
 ```
