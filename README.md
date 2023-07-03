@@ -6,7 +6,7 @@ Tech Test for Amaysim with a very basic implementation.
 git clone https://github.com/Kamotenaut/amaysim-tech-test.git
 ```
 ## Installation
-NodeJS was used for the project.
+NodeJS was used for the project, and will be required before proceeding.
 ```
 https://nodejs.org/en/download/current
 ```
@@ -22,7 +22,7 @@ npm start
 
 ## Test Scenarios
 There are two options:
-Uncomment the commented out each scenario in main.js and use
+Uncomment the commented out scenario in main.js and use
 ```
 npm start
 ```
