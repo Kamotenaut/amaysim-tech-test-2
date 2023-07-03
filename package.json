@@ -1,0 +1,24 @@
+{
+  "name": "amaysim-tech-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamotenaut/amaysim-tech-test-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamotenaut/amaysim-tech-test-2/issues"
+  },
+  "homepage": "https://github.com/Kamotenaut/amaysim-tech-test-2#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
